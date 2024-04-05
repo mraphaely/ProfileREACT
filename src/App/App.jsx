@@ -15,11 +15,11 @@ const App = () => {
                 location='London, United Kingdom'
                 role='Web Developer'
                 />
-                <Btn source={'#'} texto='GitHub'/>
+                <Btn source={'https://github.com/'} texto='GitHub'/>
                 <Btn source={'#'} texto='Frontend Mentor'/>
-                <Btn source={'#'} texto='Linkedin'/>
-                <Btn source={'#'} texto='X'/>
-                <Btn source={'#'} texto='Instagram'/>
+                <Btn source={'https://br.linkedin.com/'} texto='Linkedin'/>
+                <Btn source={'https://twitter.com/'} texto='X'/>
+                <Btn source={'https://instagram.com/'} texto='Instagram'/>
             </div>
         </main>
     )
